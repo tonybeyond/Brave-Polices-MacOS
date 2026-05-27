@@ -36,7 +36,7 @@ Reproduce the [Brave Origin](https://support.brave.app/hc/en-us/articles/3856148
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/brave-origin-free-macos
+git clone https://github.com/tonybeyond/brave-origin-free-macos
 cd brave-origin-free-macos
 chmod +x brave-policies-apply.sh
 sudo ./brave-policies-apply.sh
